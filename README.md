@@ -2,7 +2,7 @@
 
 A modern version of the classic **Snake Game**, built using **Python** and **Pygame**. This project features smooth animations, an intuitive UI, and a fun gameplay experience.  
 
-![Game Preview](WhatsApp Image 2025-03-16 at 00.28.43.jpeg)
+![Game Preview](snake1.jpeg)
 
 ---
 
