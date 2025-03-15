@@ -2,7 +2,7 @@
 
 A modern version of the classic **Snake Game**, built using **Python** and **Pygame**. This project features smooth animations, an intuitive UI, and a fun gameplay experience.  
 
-![Game Preview](image.png)
+![Game Preview](image.pn)
 
 ---
 
@@ -25,55 +25,66 @@ Ensure **Python** is installed on your system. You can download it from [python.
 Run the following command to install **Pygame**:  
 ```sh
 pip install pygame
-3️⃣ Clone the Repository
-sh
-Copy
-Edit
+```
+
+### 3️⃣ Clone the Repository  
+```sh
 git clone https://github.com/pritam-banik-roy/Snake_Games.git
 cd Snake_Games
-4️⃣ Run the Game
-sh
-Copy
-Edit
+```
+
+### 4️⃣ Run the Game  
+```sh
 python main.py
-🎮 Controls
-Key	Action
-⬆️ Up Arrow	Move Up
-⬇️ Down Arrow	Move Down
-⬅️ Left Arrow	Move Left
-➡️ Right Arrow	Move Right
-🔴 Esc	Quit the game
-📸 Screenshots
-🎲 Game Start
+```
 
-🍎 Eating Food
+---
 
-🛠 Technologies Used
-🐍 Python – Core language for game logic
-🎮 Pygame – Library for graphics and game development
-🏆 Future Enhancements
-📌 Sound Effects & Music – Add background music and sound effects.
-📌 Difficulty Levels – Implement different speed levels.
-📌 Leaderboard – Store high scores for players.
-📝 License
-This project is open-source and available under the MIT License.
+## 🎮 Controls
 
-👨‍💻 Author
-Pritam Banik Roy
-📧 Email Me
-🔗 GitHub | LinkedIn
+| Key            | Action         |
+|---------------|---------------|
+| ⬆️ Up Arrow   | Move Up       |
+| ⬇️ Down Arrow | Move Down     |
+| ⬅️ Left Arrow | Move Left     |
+| ➡️ Right Arrow | Move Right   |
+| 🔴 Esc        | Quit the game |
 
-🚀 Enjoy the game and happy coding! 🐍🎮
+---
 
-kotlin
-Copy
-Edit
+## 📸 Screenshots  
 
-✅ Save this as **README.md** in your project directory.
+### 🎲 Game Start  
+![Game Start](image.png)  
 
+### 🍎 Eating Food  
+![Eating Food](image.png)  
 
+---
 
+## 🛠 Technologies Used  
+- 🐍 **Python** – Core language for game logic  
+- 🎮 **Pygame** – Library for graphics and game development  
 
+---
 
+## 🏆 Future Enhancements  
+- 📌 **Sound Effects & Music** – Add background music and sound effects.  
+- 📌 **Difficulty Levels** – Implement different speed levels.  
+- 📌 **Leaderboard** – Store high scores for players.  
 
-4o
+---
+
+## 📝 License  
+This project is **open-source** and available under the **MIT License**.  
+
+---
+
+## 👨‍💻 Author  
+**Pritam Banik Roy**  
+📧 [Email Me](mailto:pritambanikroy@gmail.com)  
+🔗 [GitHub](https://github.com/pritam-banik-roy) | [LinkedIn](https://www.linkedin.com/in/pritam-banik-roy/)  
+
+---
+
+🚀 **Enjoy the game and happy coding!** 🐍🎮
