@@ -50,15 +50,7 @@ python main.py
 | ➡️ Right Arrow | Move Right   |
 | 🔴 Esc        | Quit the game |
 
----
 
-## 📸 Screenshots  
-
-### 🎲 Game Start  
-![Game Start](image.png)  
-
-### 🍎 Eating Food  
-![Eating Food](image.png)  
 
 ---
 
